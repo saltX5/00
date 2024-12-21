@@ -1,0 +1,9 @@
+pycryptodome
+pywin32
+secretstorage
+cryptography
+base64
+json
+sqlite3
+shutil
+getpass
