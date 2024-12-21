@@ -96,7 +96,7 @@ def main():
  |  ___/ _` / __/ __| | |  | | | | | '_ ` _ \| '_ \ / _ \ '__|
  | |  | (_| \__ \__ \ | |__| | |_| | | | | | | |_) |  __/ |   
  |_|   \__,_|___/___/ |_____/ \__,_|_| |_| |_|_.__/ \___|_|                  
-                                    github.com/                                              
+                                    github.com/saltX5                                             
     """
     print(ascii_art)
     print("Select the platform to retrieve passwords from:")
